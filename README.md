@@ -1,4 +1,4 @@
-# terraform-ec2-deployment-sample
+# terraform-ecs-deployment-sample
 Sample code snippet to deploy application in aws ec2 with terraform
 
 Terraform
